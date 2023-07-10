@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class SharedWidget extends StatelessWidget {
-  final String name;
+  final String? name;
 
   SharedWidget({this.name});
 
